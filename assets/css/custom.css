@@ -1,0 +1,41 @@
+
+.hisbutton{
+	display: block;
+	margin: 5px auto;
+	width: 50%;
+}
+.btn-insert{
+	display: block;
+	margin: 5px auto;
+	width: 100%;
+}
+.modal-dialog{
+	margin: 120px auto;
+}
+.icon-del{
+	padding:5px 10px 5px 10px ;
+}
+.select2-B{
+	width: 100%;
+}
+
+option {
+	width: 100%;
+}
+@media (max-width: 768px) {
+div#btn-tool1{
+	display: none;
+}
+
+button.bnt-sum-epp{
+width: 25%;
+margin: 10px 10px 10px 10px;
+padding: 10px 10px 10px 10px;
+float: left;
+text-align: center;
+}
+
+  }
+
+
+
